@@ -94,7 +94,7 @@ const Hero = () => {
             Let’s Connect
           </a>
           <a href="#projects" className="px-10 py-5 bg-white/80 backdrop-blur-md text-textMain border-2 border-gray-200 rounded-full font-bold text-lg hover:border-accent hover:text-accent transition-all duration-300 w-full sm:w-auto hover:shadow-lg hover:-translate-y-1">
-            Start Your Project
+            Our Services
           </a>
         </motion.div>
       </div>
